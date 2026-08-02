@@ -1,0 +1,15 @@
+generated: '2026-07-21'
+method: searched
+source: https://www.wisetack.com/partnerships
+spec_type: Webhooks
+status: advertised
+summary: Wisetack advertises webhook reporting as part of its partner API - platforms
+  embedding Wisetack financing monitor each financing application and receive
+  comprehensive metrics in real time via webhooks. The event catalog and payload
+  schemas are only published to integration partners; no public AsyncAPI or event
+  reference exists.
+evidence:
+- url: https://www.wisetack.com/partnerships
+  quote: Monitor each financing application with powerful webhook reporting, and
+    gain access to comprehensive metrics in real-time.
+events: []

@@ -1,0 +1,16 @@
+generated: '2026-07-21'
+method: searched
+source: https://www.wisetack.com/blog/announcing-wisetacks-soc-2-type-2-certification
+note: Wisetack publishes no public OpenAPI, so no API-standard conformance
+  (oauth2, rfc9457, pagination, idempotency) can be asserted from a spec. The
+  entries below are the provider's published compliance claims.
+standards:
+- id: soc2-type2
+  conforms: true
+  evidence: 'SOC 2 Type 2 certification announced 2021-11-03; audited by Coalfire
+    with continuous monitoring via Vanta.
+    https://www.wisetack.com/blog/announcing-wisetacks-soc-2-type-2-certification'
+- id: responsible-disclosure
+  conforms: true
+  evidence: 'Published responsible disclosure policy with security contact and
+    90-day critical-fix target. https://www.wisetack.com/responsible-disclosure-policy'

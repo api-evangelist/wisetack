@@ -1,0 +1,37 @@
+generated: '2026-07-21'
+method: searched
+source: live HTTP probes of /.well-known/ on apis.yml + app/API hosts
+note: No /.well-known/ documents are published on any Wisetack host. The API host
+  (api.wisetack.us) fronts every unauthenticated request with a WAF 403. No raw
+  files saved; statuses recorded for the audit trail.
+hosts:
+- host: https://www.wisetack.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+  - path: /.well-known/openid-configuration
+    status: 404
+  - path: /.well-known/oauth-authorization-server
+    status: 404
+  - path: /.well-known/api-catalog
+    status: 404
+  - path: /.well-known/ai-plugin.json
+    status: 404
+- host: https://wisetack.us
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+  - path: /.well-known/openid-configuration
+    status: 404
+- host: https://api.wisetack.us
+  documents:
+  - path: /.well-known/security.txt
+    status: 403
+  - path: /.well-known/openid-configuration
+    status: 403
+  - path: /.well-known/oauth-authorization-server
+    status: 403
+  - path: /.well-known/api-catalog
+    status: 403
+  - path: /.well-known/ai-plugin.json
+    status: 403

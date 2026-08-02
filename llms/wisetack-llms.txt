@@ -1,0 +1,52 @@
+﻿# Wisetack
+
+
+> Wisetack is an embedded consumer financing platform for service businesses. We let home service pros (HVAC, plumbing, electrical, fencing, garage doors, flooring, pest management, and more) offer customers a simple monthly payment option for larger purchases — delivered via text or link, with approval in minutes. Payment options through Wisetack are provided by Wisetack's lending partners; all financing is subject to credit approval.
+
+
+Wisetack works with 50+ field service management and vertical software platforms (e.g. Housecall Pro, Jobber, JobNimbus, Thryv, Thumbtack) to embed financing directly into existing merchant workflows via API.
+
+
+## Merchants
+- [Home services](https://www.wisetack.com/merchants/home-services): Grow your business with pay-over-time options customers love. Wisetack helps home service pros close more jobs—and it’s simple to get started.
+
+
+## Merchant Tools & Resources
+- [Resources Hub](https://www.wisetack.com/resources/home-services): Top resources for growing a business with Wisetack
+- [Marketing Toolkit](https://www.wisetack.com/marketing-toolkit/hs): Add Wisetack to a website and marketing materials
+- [Payment Calculator](https://www.wisetack.com/calculator): Estimate a monthly payment through Wisetack
+- [Sales Hub](https://www.wisetack.com/sales-hub): Tips to sell more using the Wisetack portal
+- [Prequal Link](https://www.wisetack.com/features/prequal-link): Let customers prequalify before the sale
+- [Extended 0% APR Plans](https://www.wisetack.com/features/hs-0-apr-add-ons): Interest-free financing up to 24 months
+- [Progress Payments](https://www.wisetack.com/features/progress-payments): Split large jobs into multiple payments
+- [Merchant FAQs](https://www.wisetack.com/faqs-merchants): Frequently asked questions for merchants
+- [Home Services Handbook](https://learn.wisetack.com/marketing-handbook)
+- [The Build Up Blog](https://www.wisetack.com/blog): Brush up on financing best practices and stay up-to-date 
+- [Support for Merchants] (https://support.wisetack.com/hc/en-us/categories/6806577643163-Merchants): Online help for merchants
+
+
+
+
+
+
+## Comparisons
+- [Wisetack vs. GreenSky](https://www.wisetack.com/compare/wisetack-vs-greensky): Positioning page contrasting fees, approval speed, and transparency vs. GreenSky
+
+
+## For Consumers
+- [How It Works](https://www.wisetack.com/consumers): How Wisetack monthly payments work for customers
+- [Consumer FAQs](https://www.wisetack.com/faqs): Frequently asked questions for consumers
+- [Make a Payment](https://www.wisetack.com/make-a-payment): Need to make a payment on your financing through Wisetack? Find the right steps based on your lending partner to stay current with your account.
+- [Disputes](https://www.wisetack.com/disputes): Understand your rights and the dispute process for transactions financed through Wisetack.
+- [Contact Us](https://www.wisetack.com/contact-us): Need help with financing or becoming a Wisetack partner? We’re here to help.
+- [Consumer Help Center](https://support.wisetack.com/hc/en-us/categories/6806577714459-Consumers): Online help for consumers
+
+
+## Company
+- [About Wisetack](https://www.wisetack.com/about): Learn about Wisetack's mission to bring modern, fair financing to real-world services.
+
+
+## Legal
+- [Privacy Policy](https://wisetack.us/#/privacy)
+- [Terms](https://wisetack.us/#/terms)
+- [Responsible Disclosure Policy](https://www.wisetack.com/responsible-disclosure-policy)
