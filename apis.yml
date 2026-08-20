@@ -51,6 +51,11 @@ apis:
   - Financing
   - Payments
   - Lending
+  - Webhook
+  tags_raw:
+  - Financing
+  - Payments
+  - Lending
   - Webhooks
 maintainers:
 - FN: Kin Lane
