@@ -8,6 +8,17 @@ description: 'Wisetack is an embedded consumer financing (pay-over-time) platfor
   (Housecall Pro, Jobber, JobNimbus, Thryv, Square) through a partner REST API with
   webhook reporting. Backed by Greylock and Insight Partners; SOC 2 Type 2 certified.'
 url: https://raw.githubusercontent.com/api-evangelist/wisetack/refs/heads/main/apis.yml
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
